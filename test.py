@@ -1,1 +1,1 @@
-azerty
+print("azerty")
